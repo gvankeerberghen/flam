@@ -1,0 +1,274 @@
+{
+  "metaData": {
+    "creationDate": "2019-01-30T17:16:04.439Z",
+    "from": "2019-01-01T05:00:00.000Z",
+    "until": "2019-02-01T05:00:00.000Z",
+    "company": {
+      "name": "TheCompany",
+      "id": 1,
+      "vatIncl": true,
+      "useModificationDate": false
+    },
+    "floors": [14113, 14114, 15070],
+    "tables": null,
+    "users": null,
+    "shifts": null
+  },
+  "receiptAggregates": {
+    "receipts": [
+      {
+        "date": "2018-12-01T23:57:26.284Z",
+        "total": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "taxes": 1.35,
+          "receiptCount": 1,
+          "numberOfCustomers": 0
+        },
+        "totalWithoutDiscounts": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "receiptItemCount": 1
+        },
+        "discountTotal": {
+          "totalTaxIncl": 0.0,
+          "totalTaxExcl": 0.0,
+          "receiptItemCount": 0
+        },
+        "receiptItemsTotal": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "receiptItemCount": 1
+        },
+        "receiptTotalPerCategory": {
+          "Cocktails & Spirits": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerCategoryType": {
+          "": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerProductType": {
+          "UNDEFINED": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerTaxType": {
+          "0210000": {
+            "code": null,
+            "vatRate": 21.0,
+            "vatPrice": 1.35,
+            "taxableAmount": 6.45,
+            "taxInclusive": 7.8
+          }
+        },
+        "receiptPaymentsPerPaymentType": {
+          "CASH-Cash": {
+            "paymentType": "Cash",
+            "paymentCategory": "CASH",
+            "paymentGroup": null,
+            "paymentTypeId": 0,
+            "numberOfPayments": 2,
+            "amount": 7.8,
+            "tipAmount": 0.0,
+            "totalAmount": 7.8
+          }
+        },
+        "discountTotalPerCategory": {
+          "Cocktails & Spirits": {
+            "discountableTaxExcl": 6.45,
+            "discountableTaxIncl": 7.8,
+            "discountTaxExcl": 0.0,
+            "discountTaxIncl": 0.0
+          }
+        },
+        "discountTotalPerCategoryType": {
+          "": {
+            "discountableTaxExcl": 6.45,
+            "discountableTaxIncl": 7.8,
+            "discountTaxExcl": 0.0,
+            "discountTaxIncl": 0.0
+          }
+        },
+        "receiptId": 41999277
+      },
+      {
+        "date": "2018-12-02T02:57:26.284Z",
+        "total": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "taxes": 1.35,
+          "receiptCount": 1,
+          "numberOfCustomers": 0
+        },
+        "totalWithoutDiscounts": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "receiptItemCount": 1
+        },
+        "discountTotal": {
+          "totalTaxIncl": 0.0,
+          "totalTaxExcl": 0.0,
+          "receiptItemCount": 0
+        },
+        "receiptItemsTotal": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "receiptItemCount": 1
+        },
+        "receiptTotalPerCategory": {
+          "Cocktails & Spirits": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerCategoryType": {
+          "": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerProductType": {
+          "UNDEFINED": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerTaxType": {
+          "0210000": {
+            "code": null,
+            "vatRate": 21.0,
+            "vatPrice": 1.35,
+            "taxableAmount": 6.45,
+            "taxInclusive": 7.8
+          }
+        },
+        "receiptPaymentsPerPaymentType": {
+          "CASH-Cash": {
+            "paymentType": "Cash",
+            "paymentCategory": "CASH",
+            "paymentGroup": null,
+            "paymentTypeId": 0,
+            "numberOfPayments": 2,
+            "amount": 7.8,
+            "tipAmount": 0.0,
+            "totalAmount": 7.8
+          }
+        },
+        "discountTotalPerCategory": {
+          "Cocktails & Spirits": {
+            "discountableTaxExcl": 6.45,
+            "discountableTaxIncl": 7.8,
+            "discountTaxExcl": 0.0,
+            "discountTaxIncl": 0.0
+          }
+        },
+        "discountTotalPerCategoryType": {
+          "": {
+            "discountableTaxExcl": 6.45,
+            "discountableTaxIncl": 7.8,
+            "discountTaxExcl": 0.0,
+            "discountTaxIncl": 0.0
+          }
+        },
+        "receiptId": 41999277
+      },
+
+      {
+        "date": "2018-12-02T12:57:26.284Z",
+        "total": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "taxes": 1.35,
+          "receiptCount": 1,
+          "numberOfCustomers": 0
+        },
+        "totalWithoutDiscounts": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "receiptItemCount": 1
+        },
+        "discountTotal": {
+          "totalTaxIncl": 0.0,
+          "totalTaxExcl": 0.0,
+          "receiptItemCount": 0
+        },
+        "receiptItemsTotal": {
+          "totalTaxIncl": 7.8,
+          "totalTaxExcl": 6.45,
+          "receiptItemCount": 1
+        },
+        "receiptTotalPerCategory": {
+          "Cocktails & Spirits": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerCategoryType": {
+          "": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerProductType": {
+          "UNDEFINED": {
+            "totalTaxIncl": 7.8,
+            "totalTaxExcl": 6.45,
+            "receiptItemCount": 1
+          }
+        },
+        "receiptTotalPerTaxType": {
+          "0210000": {
+            "code": null,
+            "vatRate": 21.0,
+            "vatPrice": 1.35,
+            "taxableAmount": 6.45,
+            "taxInclusive": 7.8
+          }
+        },
+        "receiptPaymentsPerPaymentType": {
+          "CASH-Cash": {
+            "paymentType": "Cash",
+            "paymentCategory": "CASH",
+            "paymentGroup": null,
+            "paymentTypeId": 0,
+            "numberOfPayments": 2,
+            "amount": 7.8,
+            "tipAmount": 0.0,
+            "totalAmount": 7.8
+          }
+        },
+        "discountTotalPerCategory": {
+          "Cocktails & Spirits": {
+            "discountableTaxExcl": 6.45,
+            "discountableTaxIncl": 7.8,
+            "discountTaxExcl": 0.0,
+            "discountTaxIncl": 0.0
+          }
+        },
+        "discountTotalPerCategoryType": {
+          "": {
+            "discountableTaxExcl": 6.45,
+            "discountableTaxIncl": 7.8,
+            "discountTaxExcl": 0.0,
+            "discountTaxIncl": 0.0
+          }
+        },
+        "receiptId": 41999277
+      }
+    ]
+  }
+}
