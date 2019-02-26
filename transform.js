@@ -118,13 +118,3 @@ csvWriter
   .then(() => {
     console.log("...Done");
   });
-
-// fs.writeFile(
-//   './transformed.json',
-//   JSON.stringify(transform(data), null, 2),
-//   'utf8',
-//   err => {
-//     if (err) throw err;
-//     console.log('The file has been written!');
-//   }
-// );
